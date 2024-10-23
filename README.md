@@ -146,20 +146,13 @@ API Endpoints
 -------------
 
 | Method | Endpoint | Description |
-
-|--------|----------|-------------|
-
-| GET | `/todos/` | List all todos |
-
-| POST | `/todos/` | Create a new todo |
-
-| GET | `/todos/{id}` | Get a specific todo |
-
-| PUT | `/todos/{id}` | Update a todo |
-
-| DELETE | `/todos/{id}` | Delete a todo |
-
-| PATCH | `/todos/{id}/complete` | Mark a todo as complete |
+| --- | --- | --- |
+| GET | `/todos/` | List all todos |
+| POST | `/todos/` | Create a new todo |
+| GET | `/todos/{id}` | Get a specific todo |
+| PUT | `/todos/{id}` | Update a todo |
+| DELETE | `/todos/{id}` | Delete a todo |
+| PATCH | `/todos/{id}/complete` | Mark a todo as complete |
 
 License
 -------
