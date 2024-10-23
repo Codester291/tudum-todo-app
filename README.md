@@ -21,7 +21,6 @@ Table of Contents
 -   [Github Actions Workflow](#github-actions-workflow)
 -   [Environment Variables for Github Secrets](#environment-variables-for-github-secrets)
 -   [API Endpoints](#api-endpoints)
--   [License](#license)
 
 Project Overview
 ----------------
@@ -153,8 +152,3 @@ API Endpoints
 | PUT | `/todos/{id}` | Update a todo |
 | DELETE | `/todos/{id}` | Delete a todo |
 | PATCH | `/todos/{id}/complete` | Mark a todo as complete |
-
-License
--------
-
-This project is licensed under the MIT License - see the <LICENSE> file for details.
